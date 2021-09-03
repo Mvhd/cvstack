@@ -1,2 +1,3 @@
 # cvstack
-Web App for developing CV, Proposal Letter
+Web App for developing CV, Proposal Letter and Cover letter 
+cvstack.ng
